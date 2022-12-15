@@ -83,7 +83,7 @@ def main():
     )
 
     # Displays to user their formatted mailing address
-    print(f"Your canadian mailing address: {user_mailing_address}")
+    print(f"\nYour canadian mailing address: {user_mailing_address}")
 
 
 if __name__ == "__main__":
